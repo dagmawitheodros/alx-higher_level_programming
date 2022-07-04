@@ -13,10 +13,3 @@ class MyList(list):
     def print_sorted(self):
         """prints the sorted list"""
         print(sorted(self))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-St
